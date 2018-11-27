@@ -1,0 +1,2 @@
+tsc -init // create tsconfig.json
+tsc nomefile -w // resta in ascolto
